@@ -477,3 +477,7 @@ $RECYCLE.BIN/
 *.lnk
 API/appsettings.json
 .editorconfig
+API/datingapp.db-shm
+API/datingapp.db-wal
+client/ssl/localhost-key.pem
+client/ssl/localhost.pem
